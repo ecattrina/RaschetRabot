@@ -1,6 +1,0 @@
-@RaschetRabot.Web_HostAddress = http://localhost:5272
-
-GET {{RaschetRabot.Web_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
